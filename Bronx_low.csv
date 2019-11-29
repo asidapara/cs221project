@@ -1,0 +1,444 @@
+"","id","name","host_id","host_name","neighbourhood_group","neighbourhood","latitude","longitude","room_type","price","minimum_nights","number_of_reviews","last_review","reviews_per_month","calculated_host_listings_count","availability_365"
+"35",1934765,"one bedroom apt  suitable for two",10012271,"Karmesha","Bronx","Parkchester",40.83645,-73.86634,"Entire home/apt",195,5,1,"2015-01-01",0.02,1,0
+"39",2062630,"large 1 bedroom apartment (shared)",6313448,"Lexy","Bronx","Bronxdale",40.85667,-73.86543,"Entire home/apt",80,1,1,"2014-08-19",0.02,1,0
+"88",4667707,"beautifully furnished 1 br  with office",24149026,"Nychele","Bronx","Concourse Village",40.82393,-73.92414,"Entire home/apt",145,5,1,"2016-01-02",0.02,1,0
+"123",7561686,"cozy large studio - yankee stadium",39639929,"John","Bronx","Concourse",40.82381,-73.92725,"Entire home/apt",110,1,1,"2015-08-08",0.02,1,0
+"47",2628191,"charming cozy cool 2br apartment.",12360441,"Angel","Bronx","Co-op City",40.86646,-73.82154,"Private room",80,3,2,"2015-10-13",0.03,1,365
+"166",10719039,"riverdale grandview",55395596,"Vian","Bronx","Fieldston",40.88777,-73.9059,"Private room",70,1,1,"2016-08-07",0.03,1,0
+"267",15916709,"studio apartment near monte fiore hospital",18934273,"Max","Bronx","Norwood",40.87529,-73.8762,"Private room",40,1,1,"2016-12-24",0.03,1,0
+"287",16425205,"room for rent (females only)",73550323,"Chioma","Bronx","Parkchester",40.84012,-73.86521,"Private room",40,1,1,"2017-01-01",0.03,1,0
+"42",2296024,"three bedroom upscale condo",2321783,"Donna","Bronx","Riverdale",40.88579,-73.91599,"Entire home/apt",250,7,2,"2019-01-02",0.04,1,338
+"74",4039789,"harmonious sanctuary near yankee stadium.",20945243,"Michael","Bronx","Concourse Village",40.83331,-73.91742,"Entire home/apt",90,30,1,"2017-05-12",0.04,1,358
+"95",4967098,"bronx  1bdrm in 3bdrm apt.",25605654,"Cindy","Bronx","Morris Park",40.85465,-73.85669,"Private room",50,1,2,"2015-02-23",0.04,1,0
+"357",18852048,"clean  spacious and comfortable room at bronx",108922928,"Zeeshan","Bronx","Allerton",40.85961,-73.86361,"Private room",49,3,1,"2017-06-01",0.04,1,0
+"381",19593009,"simple cost-friendly private room  females only",125653581,"Amanda","Bronx","Norwood",40.8774,-73.87537,"Private room",29,2,1,"2017-07-16",0.04,1,0
+"411",20330081,"new york's hidden secret for luxury living",131826530,"Kathy","Bronx","Riverdale",40.88515,-73.91411,"Shared room",800,2,1,"2017-09-03",0.04,3,269
+"415",20435714,"pretty studio with lots of light",48677247,"Elle","Bronx","Norwood",40.88304,-73.88278,"Entire home/apt",58,5,1,"2017-09-05",0.04,1,0
+"152",9394188,"room for 1 female or couple",38805180,"Maria","Bronx","Mott Haven",40.8113,-73.92465,"Private room",65,3,2,"2019-01-02",0.05,1,356
+"178",11634797,"fully furniture huge room in great apt",4187747,"Carmel","Bronx","Riverdale",40.9008,-73.90639,"Private room",49,6,2,"2017-01-01",0.05,1,340
+"185",11866301,"beautifully spacious 1 bedroom",63256824,"Xavier","Bronx","Norwood",40.87925,-73.88254,"Entire home/apt",80,1,2,"2016-05-26",0.05,1,0
+"204",12955940,"large  affordable  clean convenient",71211231,"Ehsan","Bronx","Fordham",40.85396,-73.89872,"Private room",34,1,2,"2016-06-14",0.05,1,0
+"364",18988028,"peaceful home to come on budget.",131211034,"Monica A","Bronx","University Heights",40.85484,-73.90646,"Private room",60,1,1,"2017-11-25",0.05,1,0
+"465",21406998,"large room",154696585,"Jorge","Bronx","Kingsbridge",40.87847,-73.90268,"Private room",80,3,1,"2017-12-19",0.05,1,0
+"490",22088409,"bronx native son apartment",37260534,"Cory","Bronx","Norwood",40.87491,-73.87575,"Private room",87,2,1,"2017-12-20",0.05,1,0
+"162",10332161,"a large sunny bedroom",53169195,"Ehssan","Bronx","Fordham",40.85598,-73.90052,"Private room",35,3,2,"2016-08-20",0.06,1,0
+"228",13698623,"melrose place...",33862021,"Victor","Bronx","Melrose",40.82296,-73.91429,"Private room",42,2,2,"2016-10-24",0.06,1,0
+"243",14556236,"riverdale - 2 pvt rooms for ladies only",17365319,"Fahmida","Bronx","Kingsbridge",40.88444,-73.90583,"Private room",80,2,2,"2017-01-01",0.06,2,220
+"425",20685952,"summer vibes",129602851,"W.","Bronx","Unionport",40.83121,-73.8483,"Entire home/apt",450,2,1,"2018-02-01",0.06,2,342
+"477",21778446,"romantic getaway",129602851,"W.","Bronx","Pelham Bay",40.84607,-73.83842,"Entire home/apt",99,7,1,"2018-02-01",0.06,2,349
+"518",23100862,"heaven on earth",142447586,"Winnie & Andy","Bronx","Williamsbridge",40.88049,-73.8613,"Private room",41,3,1,"2018-02-11",0.06,4,0
+"519",23102299,"cloud 9",142447586,"Winnie & Andy","Bronx","Williamsbridge",40.8805,-73.86178,"Private room",45,1,1,"2018-02-21",0.06,4,0
+"169",10947986,"entire 1br apartment in riverdale",56775169,"Rose","Bronx","Kingsbridge",40.88214,-73.90847,"Entire home/apt",99,3,1,"2018-05-20",0.07,1,311
+"260",15461512,"spacious private bedroom in the north bronx",99205045,"Liliana","Bronx","Kingsbridge",40.88283,-73.89326,"Private room",60,3,2,"2017-05-25",0.07,1,363
+"272",16149186,"cozy private room in the bronx ! ",105375380,"Yesenia","Bronx","Woodlawn",40.89743,-73.86983,"Private room",68,2,1,"2018-05-19",0.07,2,39
+"377",19460218,"nyc bronx cozy studio for relaxation and quiet",132010409,"Daisy","Bronx","Schuylerville",40.83855,-73.83167,"Entire home/apt",85,3,1,"2018-07-08",0.08,1,0
+"382",19655186,"spacious prewar south bronx apartment",138359603,"Anamaria","Bronx","Concourse",40.82153,-73.92683,"Entire home/apt",140,2,2,"2017-08-09",0.08,1,0
+"476",21765895,"fashion blvd flat 20 minutes from city center ! ",152636597,"Alexes","Bronx","Mott Haven",40.81039,-73.92478,"Private room",73,1,1,"2018-06-09",0.08,1,0
+"603",26077493,"fantastic 1bdr in new york",143400845,"Pierpaolo","Bronx","University Heights",40.86113,-73.91511,"Entire home/apt",100,5,1,"2018-07-19",0.08,1,11
+"366",19038705,"chic clason point condo",17122534,"Eliu","Bronx","Clason Point",40.80652,-73.85312,"Entire home/apt",350,3,1,"2018-08-27",0.09,1,0
+"391",19786465,"private room in the bronx",84941679,"Junior","Bronx","Clason Point",40.81699,-73.86741,"Private room",80,1,2,"2018-10-02",0.09,1,88
+"423",20588184,"pepe's place  !  !  !  !  !  shared apartment !  !  !  ! ",147094537,"Morgan","Bronx","Concourse Village",40.83206,-73.91969,"Shared room",60,1,2,"2017-09-21",0.09,1,0
+"581",25287115,"comfortable private clean room fully furnished",175368807,"Lamesha","Bronx","Williamsbridge",40.87579,-73.86532,"Private room",33,3,1,"2018-07-28",0.09,1,365
+"584",25323809,"new private cozy condo with private bedroom & bath",61699814,"Shanthi","Bronx","Kingsbridge",40.87901,-73.90155,"Private room",45,30,1,"2018-08-08",0.09,2,193
+"622",26571486,"humble home",151714821,"Ailin","Bronx","Morris Heights",40.84835,-73.9141,"Entire home/apt",149,1,1,"2018-07-25",0.09,1,0
+"639",27203333,"850 sq ft large 3rd floor nyc family loft",29510402,"Douglas","Bronx","Longwood",40.82445,-73.90341,"Private room",90,2,1,"2018-07-29",0.09,3,0
+"252",15100883,"new york multi-unit building",95623284,"Pablo","Bronx","Fordham",40.86533,-73.89713,"Private room",40,3,1,"2018-09-24",0.1,1,179
+"276",16273526,"home away for the holidays ! ",407407,"Calixto","Bronx","Norwood",40.87372,-73.88625,"Private room",60,2,3,"2017-12-25",0.1,1,364
+"485",22034977,"south bronx hideaway",148100571,"Jenny","Bronx","Soundview",40.82668,-73.8822,"Entire home/apt",50,1,2,"2017-12-09",0.1,2,0
+"335",18240632,"bronx apartment",64425305,"Posh","Bronx","Baychester",40.87372,-73.84065,"Private room",75,1,3,"2017-06-05",0.11,1,129
+"385",19682018,"room in basement apartment in woodlawn",105375380,"Yesenia","Bronx","Woodlawn",40.89785,-73.86977,"Shared room",70,2,2,"2018-12-02",0.11,2,0
+"394",19843731,"modern comfort room  with  patio 7 mins to manhattan",137832487,"Mariame","Bronx","Longwood",40.82164,-73.90163,"Private room",65,3,2,"2018-02-28",0.11,1,0
+"428",20692159,"a simple room 35 minutes from 42nd street",113152267,"Pedro","Bronx","University Heights",40.85657,-73.90915,"Private room",55,1,2,"2018-03-28",0.11,1,0
+"495",22260561,"quarto bronx (ny)",136455880,"Alvina Da Silva","Bronx","Fordham",40.86674,-73.89284,"Private room",30,2,2,"2018-02-26",0.11,2,90
+"578",25082230,"great space for business or pleasure",189604966,"Elvis","Bronx","Schuylerville",40.83022,-73.83286,"Private room",90,2,1,"2018-10-02",0.11,1,35
+"673",28172338,"casas familiar",212157854,"Camilo","Bronx","Concourse",40.83659,-73.91777,"Private room",40,1,1,"2018-10-13",0.11,2,8
+"729",29340345,"sams place",178337703,"Samuel","Bronx","Clason Point",40.80504,-73.85327,"Private room",300,1,1,"2018-10-21",0.11,1,364
+"128",7791635,"dominique's mini room nyc-sleep  shower & go*wifi",310670,"Vie","Bronx","Eastchester",40.88001,-73.8345,"Private room",62,2,5,"2017-07-11",0.12,13,320
+"358",18852919,"the perfect quiet atmosphere  when home",129890157,"Pauline","Bronx","Allerton",40.87063,-73.84896,"Private room",70,1,3,"2017-06-12",0.12,2,0
+"361",18897901,"doll private room",17766289,"Kaila","Bronx","Kingsbridge",40.86707,-73.90712,"Private room",55,5,3,"2018-01-06",0.12,2,364
+"396",19877706,"big 3 bedroom garden level apartment near subway",2988712,"Sasha","Bronx","Claremont Village",40.83507,-73.9104,"Entire home/apt",72,90,2,"2018-04-23",0.12,7,223
+"528",23285672,"quarto bronx (ny)",136455880,"Alvina Da Silva","Bronx","Fordham",40.86918,-73.8905,"Private room",34,1,2,"2018-04-05",0.12,2,5
+"67",3839364,"fabulous large 1 bed in riverdale  bronx nyc",9332835,"Karen","Bronx","Fieldston",40.89022,-73.9039,"Entire home/apt",95,14,3,"2019-07-05",0.13,1,0
+"92",4904582,"boutique retreat",25249481,"Jacqueline","Bronx","Mount Hope",40.85062,-73.90251,"Private room",40,14,5,"2017-06-17",0.13,1,322
+"334",18229365,"beautiful apartment ~25min from times square",6358504,"Yaroslav","Bronx","Mount Hope",40.84499,-73.91157,"Entire home/apt",60,5,3,"2018-08-21",0.13,1,0
+"530",23469535,"your room at roselle’s  bronx",175152359,"Massiel","Bronx","Westchester Square",40.843,-73.84806,"Private room",65,2,2,"2019-06-23",0.13,2,135
+"737",29712188,"heaven in new york  orange room",185908506,"Cynthia","Bronx","Edenwald",40.885,-73.83518,"Private room",75,3,1,"2018-11-20",0.13,3,311
+"61",3627326,"spain room",5652395,"Julio","Bronx","Concourse",40.81954,-73.92715,"Private room",105,1,3,"2018-09-16",0.14,2,365
+"79",4278389,"m1 twin couch bed sleeps 1 guest",295128,"Carol Gloria","Bronx","Clason Point",40.81231,-73.85535,"Shared room",45,1,7,"2019-07-01",0.14,7,365
+"146",8988451,"new york city living",46953097,"Lauren","Bronx","Concourse Village",40.82705,-73.91337,"Private room",95,2,6,"2016-08-14",0.14,1,173
+"555",24231655,"humble abode in the bronx",37417547,"Raquel","Bronx","Mount Eden",40.84197,-73.91292,"Private room",25,2,2,"2018-05-19",0.14,1,0
+"769",30527526,"pelham south",228773060,"Reggae In","Bronx","Bronxdale",40.85398,-73.86451,"Private room",25,2,1,"2018-12-14",0.14,1,0
+"182",11695338,"quiet and modern haven in nyc",16234492,"Denise","Bronx","Soundview",40.82442,-73.86193,"Private room",45,2,6,"2016-08-07",0.15,1,0
+"330",18006003,"room in bronx little italy",91261577,"Matthew","Bronx","Belmont",40.85311,-73.88763,"Private room",29,4,4,"2017-08-27",0.15,1,0
+"33",1747833,"affordable clean private room nyc",9197101,"Alex Nova York","Bronx","Mount Eden",40.84367,-73.91718,"Private room",43,2,11,"2014-09-28",0.16,1,338
+"43",2392296,"a simple  calm space",10510181,"Août","Bronx","Kingsbridge",40.88437,-73.89746,"Shared room",32,2,6,"2016-09-22",0.16,1,83
+"50",2772111,"it's very warm and friendly.",14176488,"Ada Azra","Bronx","Fordham",40.86705,-73.88545,"Shared room",55,7,10,"2018-10-13",0.16,1,365
+"133",8265482,"cozy private room near bronx zoo",43583032,"Stephanie","Bronx","West Farms",40.84328,-73.88173,"Private room",79,1,3,"2018-10-08",0.16,1,179
+"280",16336636,"river view apartment in the bronx",91320722,"Germaine","Bronx","Kingsbridge",40.86605,-73.90694,"Entire home/apt",47,26,3,"2018-08-23",0.16,1,37
+"360",18894445,"practical & affordable flat on subway to manhattan",2988712,"Sasha","Bronx","Mount Hope",40.85152,-73.90374,"Entire home/apt",48,90,2,"2018-11-30",0.16,7,93
+"372",19264368,"relaxing room in a spacious artist apartment",314115,"Gigi","Bronx","Morrisania",40.8329,-73.89608,"Private room",60,5,4,"2018-07-29",0.16,1,175
+"491",22125138,"new york room",161638092,"Sergio","Bronx","Belmont",40.85828,-73.88559,"Private room",30,1,3,"2018-01-08",0.16,1,0
+"736",29674940,"sunlit backyard in nyc + walk to zoo and gardens ! ",57400178,"Diane","Bronx","Allerton",40.86923,-73.86275,"Entire home/apt",90,5,1,"2019-01-02",0.16,1,157
+"760",30225205,"relax de dios",180311428,"Every","Bronx","Allerton",40.86757,-73.8649,"Private room",60,2,1,"2019-01-01",0.16,1,363
+"773",30823651,"hotel living !  private large bedroom & bath !  ! ",83490060,"Annette","Bronx","Throgs Neck",40.81518,-73.82708,"Private room",99,1,1,"2019-01-05",0.16,1,318
+"776",30941095,"minutes to manhattan",69713712,"Trevor","Bronx","Hunts Point",40.81389,-73.88914,"Private room",70,2,1,"2018-12-30",0.16,1,342
+"12",267535,"home away from home-room in bronx",1402951,"Clara","Bronx","Wakefield",40.89557,-73.8447,"Private room",50,2,15,"2019-06-09",0.17,1,337
+"16",498120,"hi traveler.. welcome",2459648,"Ellen","Bronx","Allerton",40.8687,-73.8524,"Private room",35,7,2,"2018-07-23",0.17,1,90
+"85",4472904,"dorm sz room. near 2 & 5 train 180 st bronx zoo",1532337,"Monica","Bronx","Van Nest",40.8423,-73.87055,"Private room",25,30,6,"2019-05-28",0.17,4,219
+"116",6726337,"beautiful 2 bedroom apartment !  !  nyc",21444167,"Rony","Bronx","Kingsbridge",40.88238,-73.90689,"Entire home/apt",159,3,8,"2019-06-02",0.17,2,112
+"390",19760163,"bronx room for rent",6843497,"J.F.","Bronx","Morris Park",40.84932,-73.85883,"Private room",35,3,4,"2019-04-06",0.17,1,76
+"589",25480539,"bronx roon",102501688,"Julissa","Bronx","Highbridge",40.83464,-73.92505,"Private room",70,2,2,"2018-09-30",0.17,1,348
+"642",27293665,"bright essential cozy private room",99137905,"Valentina","Bronx","Wakefield",40.88878,-73.86349,"Private room",60,1,1,"2019-01-13",0.17,1,269
+"26",1026683,"mi casa tu casa guesthouse mexico",5652395,"Julio","Bronx","Concourse",40.81906,-73.92806,"Private room",85,2,11,"2018-09-02",0.18,2,363
+"87",4632852,"spacious  rustic barn style bedroom",23991556,"Natasha","Bronx","Concourse",40.83719,-73.92015,"Private room",85,1,9,"2017-10-16",0.18,1,342
+"112",6421429,"dominique's lowerlevel 1 bdrm pad*video projects",310670,"Vie","Bronx","Eastchester",40.88241,-73.83422,"Entire home/apt",115,1,6,"2019-06-30",0.18,13,364
+"177",11497938,"one bedroom with kids room   office",60501531,"John","Bronx","Spuyten Duyvil",40.88058,-73.91812,"Entire home/apt",79,186,7,"2016-07-30",0.18,1,365
+"248",14994076,"dominiques nyc 4bedrm crashpad**stay here**metro",310670,"Vie","Bronx","Eastchester",40.88207,-73.83538,"Entire home/apt",299,2,2,"2019-05-21",0.18,13,358
+"803",31428772,"private studio 25 minutes from midtown",42761,"Jessica","Bronx","Claremont Village",40.84487,-73.90811,"Private room",80,2,1,"2019-01-20",0.18,1,156
+"60",3507112,"#1 private studio in bx 15mins nyc.",17658078,"Richard","Bronx","Mott Haven",40.81049,-73.9043,"Private room",79,2,11,"2016-03-19",0.19,1,0
+"144",8901538,"welcome to my humble abode !  !  !  !  ! ",46562860,"Paisha","Bronx","Longwood",40.82226,-73.88906,"Private room",60,3,8,"2018-01-03",0.19,1,363
+"254",15273936,"*enjoy nyc*new renovated apartment(private room)",95796044,"Sasha","Bronx","Woodlawn",40.88253,-73.86951,"Private room",68,1,6,"2018-10-09",0.19,1,87
+"353",18702075,"clean and large bedroom in a private house",130021104,"Christoni","Bronx","Williamsbridge",40.87309,-73.86326,"Private room",60,1,5,"2017-06-03",0.19,1,0
+"378",19527492,"huge apartment near subway  quiet and sunny ! ",2988712,"Sasha","Bronx","Claremont Village",40.83625,-73.91079,"Entire home/apt",127,90,4,"2018-12-12",0.19,7,250
+"452",21121438,"royalty room",17766289,"Kaila","Bronx","Kingsbridge",40.86924,-73.90651,"Private room",40,30,4,"2018-06-01",0.19,2,148
+"582",25296394,"nyc hideaway urban suite",191085997,"Christopher","Bronx","Pelham Bay",40.85519,-73.82932,"Entire home/apt",195,2,2,"2018-10-09",0.19,3,313
+"602",26004876,"ivoire realty",181711840,"Christophe","Bronx","University Heights",40.86259,-73.90359,"Private room",65,1,2,"2018-08-28",0.19,2,0
+"666",27952742,"tw #7 private rm. 2nd fl. full size bed 1 guest",211136294,"Sharon & Erika","Bronx","Schuylerville",40.83729,-73.83323,"Private room",69,1,2,"2019-05-10",0.19,5,330
+"797",31295524,"cozy modern getaway 30 mins from manhattan (1bdrm)",232283561,"Beverline","Bronx","East Morrisania",40.83025,-73.89134,"Private room",70,1,1,"2019-01-28",0.19,3,81
+"41",2223628,"haus of taylor (bronx prohibition)",11342593,"Emery","Bronx","Kingsbridge",40.86467,-73.90125,"Private room",75,2,11,"2015-12-06",0.2,1,365
+"234",13961015,"a lovely one bedroom apartment ! ",29224381,"Aurora","Bronx","Norwood",40.86853,-73.88301,"Entire home/apt",120,10,7,"2019-01-07",0.2,1,327
+"241",14351180,"sunny artist loft with pool and spa",10282255,"Liza","Bronx","Port Morris",40.80779,-73.93095,"Entire home/apt",110,3,7,"2019-06-09",0.2,1,42
+"295",16591428,"sunny modern apartment with terrace  near subway",2988712,"Sasha","Bronx","Mount Hope",40.85188,-73.90321,"Entire home/apt",60,90,5,"2018-11-03",0.2,7,94
+"244",14724479,"clean & amazing semi private nyc room by #1 train",30499687,"Jovanni & Natasha","Bronx","Fieldston",40.89581,-73.89778,"Private room",59,2,7,"2017-04-17",0.21,2,0
+"496",22266609,"bronx home with rooftop and laundry",29412145,"Samantha","Bronx","Port Morris",40.80726,-73.92999,"Private room",50,2,4,"2018-01-02",0.21,1,0
+"544",23859280,"travelers cozy new york getaway",9808458,"Zain","Bronx","Kingsbridge",40.87257,-73.9009,"Private room",65,1,2,"2018-10-19",0.21,4,364
+"650",27546831,"van cortlandt multi-unit building",207661442,"Marcia","Bronx","Kingsbridge",40.88445,-73.89663,"Private room",50,1,1,"2019-02-15",0.21,1,61
+"68",3888469,"private room",8834412,"Deborah","Bronx","Longwood",40.81321,-73.90259,"Private room",100,3,2,"2019-01-02",0.22,2,207
+"153",9412522,"city living without all the noise.",48249473,"Marisol","Bronx","Kingsbridge",40.879,-73.90062,"Entire home/apt",189,1,8,"2019-04-26",0.22,2,354
+"236",14139187,"nice cheap place to stay in nyc",74707352,"Amadeus","Bronx","Longwood",40.82148,-73.89122,"Private room",60,1,8,"2016-12-29",0.22,1,364
+"499",22373128,"bronx norwood apt",163586662,"Cory","Bronx","Norwood",40.87446,-73.87453,"Private room",187,3,4,"2019-07-04",0.22,1,76
+"707",28916312,"cozy nook in bronx 5 mins from botanical gardens ! ",99956350,"Aubeen","Bronx","Fordham",40.86777,-73.88397,"Private room",90,1,2,"2019-01-01",0.22,1,362
+"842",32448627,"lola's casa",243766178,"Lola","Bronx","Westchester Square",40.83619,-73.84916,"Private room",52,4,1,"2019-02-22",0.22,1,0
+"231",13864221,"live  love  stay in the bronx ! ",3213737,"Vernise","Bronx","Allerton",40.86066,-73.85414,"Private room",50,1,8,"2018-11-12",0.23,1,280
+"242",14375153,"call it home.",75506967,"Mimie","Bronx","Claremont Village",40.83796,-73.9016,"Private room",38,15,8,"2018-08-02",0.23,2,24
+"290",16476956,"newly renovated & fully furnished super clean",51065605,"Charles","Bronx","Port Morris",40.80743,-73.92971,"Entire home/apt",115,5,7,"2019-07-01",0.23,1,7
+"341",18448516,"spacious house close to yankee stadium.",127895318,"Emmanuel","Bronx","Mount Hope",40.84992,-73.90346,"Private room",50,1,6,"2018-05-05",0.23,1,0
+"449",21045324,"bronx room",27187487,"Summer","Bronx","Belmont",40.85444,-73.88462,"Private room",30,3,5,"2018-08-15",0.23,2,361
+"700",28810799,"spacious comfy livingroom lounge spot in bronxhome",217290804,"Robert","Bronx","Morris Park",40.85661,-73.85281,"Shared room",40,1,2,"2018-10-29",0.23,1,88
+"718",29037483,"bronx suite",218840878,"Francisco","Bronx","Mott Haven",40.81017,-73.92266,"Private room",79,2,2,"2019-01-02",0.23,1,88
+"849",32636982,"spacious and family friendly location ! ",245369413,"Jason","Bronx","Parkchester",40.83485,-73.85954,"Entire home/apt",93,5,1,"2019-02-26",0.23,1,306
+"37",1956677,"the ""humphrey bogart""",120623,"David","Bronx","Port Morris",40.80844,-73.92889,"Entire home/apt",140,30,16,"2018-09-26",0.24,1,365
+"165",10476782,"artist apartment with tons of space",47573846,"Jemier","Bronx","Wakefield",40.88808,-73.86017,"Entire home/apt",85,20,10,"2019-06-04",0.24,1,277
+"155",9513511,"spacious & sunny room perfect for medical students",49293611,"Gloria","Bronx","Allerton",40.85753,-73.86605,"Private room",85,7,9,"2019-06-26",0.25,1,364
+"163",10338696,"studio apartment in safe neighborhood.",50742613,"Reed","Bronx","Pelham Bay",40.84721,-73.83222,"Entire home/apt",37,5,10,"2018-07-04",0.25,1,0
+"227",13688739,"comfy cave inn",79752355,"Eduardo","Bronx","Fordham",40.85859,-73.89571,"Entire home/apt",65,1,9,"2017-09-02",0.25,1,0
+"333",18207319,"brownstone  with  luxurious private room & bay windows",125687221,"Tee","Bronx","Longwood",40.8134,-73.89893,"Private room",75,3,6,"2017-08-04",0.25,1,87
+"461",21366806,"comfortable air bed near bronx zoo and sbh",154238443,"Mrs","Bronx","Belmont",40.85456,-73.88521,"Private room",29,4,5,"2019-06-01",0.25,2,360
+"814",31759409,"conveniet access to nyc",63966717,"Carol","Bronx","Belmont",40.85929,-73.89165,"Private room",99,2,1,"2019-03-11",0.25,2,0
+"203",12933540,"comfortable sofa bed 15 minutes to manhattan",69711528,"Lucia","Bronx","Parkchester",40.83049,-73.87354,"Shared room",51,3,9,"2017-05-20",0.26,2,89
+"512",22794719,"habitacion de renta para 2",168429942,"Jennifer","Bronx","Norwood",40.88007,-73.87326,"Private room",50,5,4,"2019-06-17",0.26,2,324
+"735",29653333,"yankee stadium pad",127828600,"Brey","Bronx","Concourse",40.82773,-73.92308,"Private room",100,1,2,"2018-12-27",0.26,1,177
+"14",444430,"comfy room minutes from museums",420542,"Danielle","Bronx","Mott Haven",40.81128,-73.92399,"Private room",49,1,23,"2018-03-27",0.27,1,333
+"448",21044649,"one bedroom bronx bohemian style living space",151547086,"Tanya","Bronx","Norwood",40.87759,-73.88459,"Private room",42,2,6,"2019-05-13",0.27,1,62
+"634",26957426,"beautiful south bronx colonial townhouse",6738579,"Natalie","Bronx","Morrisania",40.83201,-73.89996,"Entire home/apt",140,2,3,"2019-04-22",0.27,1,27
+"761",30226474,"jackie kennedy's nook",86973566,"Karina","Bronx","City Island",40.85056,-73.78829,"Private room",65,3,2,"2018-12-09",0.27,1,89
+"30",1490223,"private bed & bath in a townhouse:charm-calm-cozy-",6586128,"Martine","Bronx","Port Morris",40.80011,-73.9133,"Private room",60,21,19,"2019-01-02",0.28,2,178
+"62",3628328,"2br apartment in doorman building",1279211,"Aldo","Bronx","Concourse Village",40.82603,-73.92312,"Entire home/apt",87,6,11,"2019-06-04",0.28,1,0
+"69",3939086,"call this home (for a spell  at least....)",881214,"Mysia","Bronx","Mott Haven",40.80866,-73.92069,"Private room",45,5,14,"2017-08-26",0.28,1,0
+"97",5288228,"sunny room across crotonapark for women only space",860636,"Shawn(Ta)","Bronx","Tremont",40.83875,-73.88728,"Private room",38,3,15,"2018-10-01",0.28,3,0
+"126",7734670,"prolonged traveler's dream (a month first & more)",32164030,"Ikkyukim","Bronx","Hunts Point",40.81387,-73.88797,"Private room",37,30,13,"2019-02-28",0.28,6,333
+"567",24732974,"1 bedroom (entire) apartment very spacious",186318389,"Joanna","Bronx","Mount Eden",40.84059,-73.92156,"Entire home/apt",150,1,4,"2018-05-17",0.28,1,0
+"93",4963237,"dominique's  nyc  cosy 2 bedrm crashpad*stay here*",310670,"Vie","Bronx","Eastchester",40.87829,-73.83471,"Entire home/apt",155,2,11,"2019-05-19",0.29,13,348
+"253",15259634,"amazing & clean nyc private room by #1 train",30499687,"Jovanni & Natasha","Bronx","North Riverdale",40.90175,-73.89761,"Private room",77,2,9,"2017-04-30",0.29,2,0
+"659",27782761,"best of both world  city and safety easy to get",15486514,"Nathan","Bronx","Parkchester",40.83581,-73.85864,"Private room",65,2,3,"2018-12-02",0.29,2,0
+"774",30848952,"cozy private room in the upcoming bronx",230646296,"Cesar","Bronx","Concourse Village",40.83311,-73.9116,"Private room",34,2,2,"2018-12-26",0.29,1,0
+"91",4795390,"cozy private room",16151285,"Carol","Bronx","Williamsbridge",40.88016,-73.84923,"Private room",43,28,15,"2019-05-31",0.3,4,336
+"218",13417723,"big 4 bedroom apartment near subway  all renovated",2988712,"Sasha","Bronx","Claremont Village",40.8357,-73.91023,"Entire home/apt",110,90,11,"2018-08-23",0.3,7,77
+"222",13480134,"cosy room with all confort",51329030,"Zakaria","Bronx","Longwood",40.82716,-73.89911,"Private room",30,1,11,"2016-11-18",0.3,1,0
+"249",14995212,"cozy private room near the bronx zoo",94553067,"Maria","Bronx","Bronxdale",40.85499,-73.86728,"Private room",43,4,10,"2017-01-03",0.3,1,88
+"523",23124338,"new york guests house",171830071,"Fatima","Bronx","Fordham",40.85662,-73.89797,"Private room",65,2,5,"2018-03-26",0.3,1,0
+"196",12405814,"sunny + family friendly artist's apartment",1468472,"Eugenia","Bronx","Longwood",40.81384,-73.90514,"Entire home/apt",85,5,4,"2018-08-03",0.31,1,0
+"206",13117282,"cheerful & practical garden apartment near subway",2988712,"Sasha","Bronx","Claremont Village",40.83458,-73.91021,"Entire home/apt",57,90,11,"2019-05-10",0.31,7,68
+"601",26003692,"large private bedroom woodlawn location",136208791,"Camille","Bronx","Wakefield",40.88723,-73.86351,"Private room",45,1,4,"2018-08-17",0.31,1,365
+"685",28369910,"semi private bedroom",214190693,"Samantha","Bronx","Fordham",40.85536,-73.90242,"Shared room",55,1,3,"2019-02-23",0.31,1,83
+"99",5458432,"large industrial apt. near trains & yankee stadium",1364903,"Farah","Bronx","Concourse Village",40.83161,-73.91958,"Entire home/apt",150,4,6,"2019-06-10",0.32,1,346
+"103",5824543,"private room for 2 (10 min to city) - females only",30232055,"Qasim","Bronx","Longwood",40.82209,-73.90086,"Private room",80,1,2,"2019-04-30",0.32,1,255
+"121",7501694,"prolonged traveler's dream( a month first & more)",32164030,"Ikkyukim","Bronx","Hunts Point",40.81335,-73.8873,"Private room",40,30,15,"2019-06-30",0.32,6,333
+"270",16058082,"private room in bronx ny  manhattan",104584267,"Evguenia","Bronx","Morris Heights",40.84862,-73.92412,"Private room",75,1,3,"2019-05-19",0.32,1,365
+"288",16428383,"2 blocks to 2 ⭐️⭐️⭐️⭐️⭐️",45247495,"Carlos","Bronx","Fieldston",40.89279,-73.89946,"Entire home/apt",135,6,8,"2019-07-01",0.32,1,250
+"767",30449111,"bxny yankees",227856882,"Carl","Bronx","Concourse",40.83513,-73.91797,"Private room",99,1,2,"2019-06-03",0.32,1,90
+"783",31032487,"share lg studio rm b2*2 blocks subway *bronx zoo",1532337,"Monica","Bronx","Van Nest",40.84119,-73.87049,"Shared room",20,10,2,"2019-06-30",0.32,4,114
+"881",33195147,"the sweet",239155432,"Thia","Bronx","Wakefield",40.90484,-73.84489,"Private room",120,1,1,"2019-04-08",0.32,1,268
+"848",32628641,"private room-close to manhattan(10-15 minutes)",79567015,"Yeufre","Bronx","Mott Haven",40.81496,-73.92088,"Private room",60,1,1,"2019-04-09",0.33,1,90
+"762",30253236,"sedaon2 dance studio",140862407,"Angelie","Bronx","Westchester Square",40.84378,-73.84469,"Entire home/apt",670,1,2,"2019-03-31",0.34,1,178
+"5",71812,"condo apartment with laundry in unit",369015,"Thai","Bronx","Kingsbridge",40.87207,-73.90193,"Entire home/apt",90,30,4,"2019-01-02",0.35,2,346
+"46",2618288,"tour like a local",13408910,"Tmc","Bronx","Concourse",40.83012,-73.92714,"Private room",41,2,12,"2018-01-01",0.35,2,0
+"70",3953314,"hamiltons hideway lower level apt nyc",295128,"Carol Gloria","Bronx","Clason Point",40.81192,-73.85334,"Entire home/apt",155,1,19,"2019-07-01",0.35,7,332
+"277",16276294,"rental in a uptown cozy apartment",32625342,"Bianca","Bronx","Kingsbridge",40.88467,-73.90575,"Private room",30,4,11,"2019-05-15",0.35,2,0
+"53",3039110,"the proud new yorker room",8159536,"Genae","Bronx","Concourse Village",40.83288,-73.91834,"Private room",50,1,21,"2019-06-02",0.36,3,188
+"314",17529164,"large room with private bathroom (long term+++)",11070120,"Vernon","Bronx","Fordham",40.85929,-73.90048,"Private room",45,22,10,"2019-04-13",0.36,2,186
+"480",21830694,"a piece of mind in the city",57882444,"Antrice","Bronx","Allerton",40.85973,-73.86699,"Entire home/apt",70,2,7,"2018-01-02",0.36,1,0
+"704",28872377,"prolonged traveler's dream (a month first & more)",32164030,"Ikkyukim","Bronx","Hunts Point",40.81377,-73.88933,"Private room",40,30,3,"2019-04-07",0.36,6,321
+"49",2719640,"independant suite in townhouse: big  bright & calm",6586128,"Martine","Bronx","Port Morris",40.80091,-73.91449,"Private room",71,4,18,"2018-12-30",0.37,2,45
+"129",7791636,"**dominique's nyc couch bed **sleep*shower &  go**",310670,"Vie","Bronx","Eastchester",40.88211,-73.83625,"Shared room",45,1,1,"2019-04-20",0.37,13,318
+"374",19326306,"prolonged traveler's dream(a month first & more)",32164030,"Ikkyukim","Bronx","Hunts Point",40.81227,-73.88871,"Private room",37,30,5,"2018-09-30",0.37,6,329
+"794",31225319,"dominiques unique twin room*nyc-wifi* metro*safe",310670,"Vie","Bronx","Eastchester",40.88179,-73.83455,"Private room",75,2,1,"2019-04-20",0.37,13,365
+"456",21250819,"best bronx room !  !  ! ",27187487,"Summer","Bronx","Belmont",40.85632,-73.88631,"Private room",35,3,7,"2019-05-19",0.38,2,357
+"768",30523683,"upscale dwelling",228961973,"Michael","Bronx","Concourse Village",40.82674,-73.91935,"Private room",85,3,1,"2019-04-21",0.38,1,341
+"795",31236046,"the princess",233665357,"Sandra","Bronx","Pelham Gardens",40.86723,-73.84285,"Entire home/apt",67,7,2,"2019-04-01",0.38,1,172
+"233",13920551,"vida local",80974010,"Lou","Bronx","Highbridge",40.83736,-73.92318,"Private room",22,3,14,"2017-10-10",0.39,1,42
+"654",27703561,"both world getting to the city and safe place",15486514,"Nathan","Bronx","Parkchester",40.8358,-73.85833,"Shared room",65,2,4,"2018-11-25",0.39,2,0
+"125",7692660,"prolonged traveler's dream(a month first & more)",32164030,"Ikkyukim","Bronx","Hunts Point",40.81229,-73.88887,"Private room",40,30,19,"2019-06-29",0.4,6,287
+"134",8275331,"affordable and spacious room",32379616,"Fabiola","Bronx","Williamsbridge",40.88301,-73.85452,"Private room",65,5,17,"2017-10-03",0.4,2,123
+"156",9597258,"cozy and affordable room.",32379616,"Fabiola","Bronx","Williamsbridge",40.88165,-73.85625,"Private room",34,5,17,"2019-05-31",0.4,2,313
+"235",14042426,"riverdale - room with breakfast for ladies only",17365319,"Fahmida","Bronx","Kingsbridge",40.88393,-73.90639,"Private room",50,2,14,"2019-07-05",0.4,2,26
+"258",15345313,"bronx beauty: renovated historic rowhouse.",97853468,"Steven","Bronx","Hunts Point",40.81658,-73.88889,"Private room",59,14,13,"2018-12-30",0.4,4,340
+"551",24115562,"nyc top choice rms located close to pub transport",55948559,"Barry","Bronx","Pelham Gardens",40.86615,-73.84185,"Private room",35,1,6,"2019-06-18",0.4,4,0
+"556",24287367,"come explore the bronx and 30 mins to manhattan",102896902,"Lawrence","Bronx","Concourse Village",40.83216,-73.91598,"Private room",70,3,3,"2019-05-22",0.4,1,178
+"296",16739146,"practical modern 2 bedroom apartment on subway",2988712,"Sasha","Bronx","Fordham",40.85318,-73.90204,"Entire home/apt",71,90,10,"2019-03-28",0.41,7,310
+"521",23116453,"perfect place to stay",121379512,"Maria","Bronx","Longwood",40.8273,-73.88906,"Private room",37,1,7,"2018-10-20",0.41,2,0
+"734",29614580,"⚡ 3 apt in 1--large groups travel & stay together⚡",129222253,"Andy","Bronx","Williamsbridge",40.87831,-73.86511,"Entire home/apt",350,2,3,"2019-06-09",0.41,3,323
+"311",17242854,"yankee stadium apartment in bronx",8159536,"Genae","Bronx","Concourse",40.83243,-73.92035,"Private room",40,1,11,"2019-02-20",0.42,3,239
+"541",23744762,"large yankee stadium bronx bedroom in spacious apt",8159536,"Genae","Bronx","Concourse Village",40.83086,-73.92025,"Private room",57,1,6,"2019-03-11",0.42,3,220
+"83",4456312,"large cheerful private bronx room for med students",3551179,"Veralisa","Bronx","Kingsbridge",40.87829,-73.89337,"Private room",57,3,20,"2019-06-30",0.43,1,311
+"458",21314250,"5 star cozy room",154238443,"Mrs","Bronx","Belmont",40.85579,-73.88512,"Private room",29,3,9,"2019-06-12",0.43,2,322
+"474",21716772,"large private room close to subway station",52889093,"Kamyar","Bronx","Kingsbridge",40.88302,-73.90899,"Private room",70,1,8,"2018-05-24",0.43,1,0
+"122",7502146,"prolonged traveler's dream (a month first & more)",32164030,"Ikkyukim","Bronx","Hunts Point",40.81395,-73.88675,"Private room",40,30,21,"2019-06-22",0.44,6,343
+"576",25004276,"1 sunny bedroom in parkchester",189022543,"Anne","Bronx","Parkchester",40.83688,-73.85584,"Private room",80,2,6,"2018-11-01",0.44,1,0
+"101",5749147,"quiet attic room for single female traveler",860636,"Shawn(Ta)","Bronx","Tremont",40.84061,-73.88858,"Private room",30,3,11,"2018-10-02",0.45,3,0
+"781",31002413,"riverdale private room",231459188,"Viktoria","Bronx","Fieldston",40.88796,-73.90473,"Private room",49,1,3,"2019-01-05",0.45,1,0
+"34",1798500,"dominique's ny*wanderlust room metro bronx zoo gdn",310670,"Vie","Bronx","Co-op City",40.86317,-73.82494,"Private room",75,2,32,"2019-01-01",0.46,13,363
+"435",20801864,"welcome to a beautiful house in quiet bronx",77750223,"Mercedes","Bronx","Clason Point",40.81645,-73.86355,"Private room",40,3,10,"2019-05-19",0.46,2,156
+"464",21405904,"single private bedroom in a beautiful house",77750223,"Mercedes","Bronx","Clason Point",40.81728,-73.86343,"Private room",40,3,5,"2019-05-19",0.46,2,365
+"473",21612193,"private room in 19th century townhome  mott haven",67396790,"Shannon","Bronx","Mott Haven",40.8118,-73.92263,"Private room",54,1,9,"2018-01-28",0.46,1,0
+"546",23879304,"beautiful room",179416315,"Elizabeth","Bronx","University Heights",40.85989,-73.91189,"Private room",60,2,7,"2019-01-01",0.46,2,156
+"100",5495927,"crotona park sunny room at summit ! ",860636,"Shawn(Ta)","Bronx","Tremont",40.83887,-73.88805,"Private room",42,2,25,"2018-09-30",0.47,3,0
+"118",6965529,"big comfy space close to yankees.",2001830,"Jose And Ysaira","Bronx","Morris Heights",40.85073,-73.9128,"Private room",50,3,20,"2019-04-22",0.47,2,316
+"247",14945274,"bronx retreat in contemporary apt",32357900,"Tara","Bronx","Fieldston",40.88985,-73.90747,"Private room",85,2,16,"2017-09-01",0.47,1,0
+"454",21156632,"victorian styled long townhouse in nyc",150363476,"Eliasz","Bronx","Parkchester",40.83439,-73.8585,"Private room",300,2,9,"2018-11-23",0.47,1,0
+"615",26516462,"m2 a cozy well lit room sleeps 2 on  2 single beds",295128,"Carol Gloria","Bronx","Clason Point",40.81309,-73.85367,"Private room",70,1,3,"2019-04-28",0.47,7,360
+"82",4449559,"very bright modern apartment 2 mins from manhattan",23092836,"Gary","Bronx","Concourse",40.82636,-73.92655,"Entire home/apt",105,30,18,"2019-06-02",0.48,1,52
+"665",27924639,"nyc private home-1 bedroom private entrance",11305944,"Yahaira","Bronx","Williamsbridge",40.87135,-73.85736,"Entire home/apt",145,2,5,"2018-12-10",0.48,5,0
+"777",30942778,"share a lg studio room* 2 blocks subway* bronx zoo",1532337,"Monica","Bronx","Van Nest",40.84047,-73.87127,"Shared room",20,14,1,"2019-05-08",0.48,4,139
+"90",4738429,"m3 hamilton's hideaway studio",295128,"Carol Gloria","Bronx","Clason Point",40.81214,-73.85371,"Entire home/apt",110,1,15,"2019-06-23",0.49,7,325
+"179",11639297,"modern new condo  20 minutes to upper west side",61699814,"Shanthi","Bronx","Kingsbridge",40.8787,-73.90098,"Private room",35,30,7,"2019-06-08",0.49,2,155
+"675",28206177,"bronx brand new room #3",203266238,"Steve","Bronx","Morris Park",40.85361,-73.85018,"Private room",85,5,5,"2019-05-31",0.49,5,365
+"4",63610,"dominique's ny mini efficiency* wifi*metro*quiet",310670,"Vie","Bronx","Eastchester",40.88057,-73.83572,"Entire home/apt",105,2,38,"2019-06-27",0.5,13,365
+"440",20849101,"nyc private room in private house|mt vernon area",149618690,"Tunzil","Bronx","Wakefield",40.90356,-73.84172,"Private room",59,1,11,"2019-06-10",0.5,1,35
+"44",2435198,"lovely private bedroom in vibrant bronx  ny",12446529,"Migdalia","Bronx","Soundview",40.82528,-73.86004,"Private room",50,2,32,"2019-04-07",0.51,2,156
+"538",23669006,"4 bdrm riverdale apt  15-30 minutes to manhattan",2965556,"Mj","Bronx","Spuyten Duyvil",40.88316,-73.91151,"Entire home/apt",360,2,8,"2019-06-16",0.51,1,71
+"323",17880254,"spacious new york city travelers getaway",9808458,"Zain","Bronx","Kingsbridge",40.8709,-73.89946,"Shared room",60,2,11,"2019-01-01",0.52,4,365
+"632",26866997,"sweet little home",201893473,"Danielisa","Bronx","Concourse",40.83224,-73.92068,"Private room",38,5,6,"2018-12-08",0.52,1,188
+"745",29884848,"private room for women only near bx little italy",149306690,"Kelcie","Bronx","Belmont",40.85504,-73.88394,"Private room",24,1,4,"2019-06-24",0.52,1,0
+"86",4504049,"blissfully quiet room",16151285,"Carol","Bronx","Williamsbridge",40.87896,-73.84978,"Private room",55,28,27,"2019-05-28",0.53,4,338
+"525",23164537,"shared studio apartment",172186369,"Elisheva","Bronx","Morris Heights",40.84718,-73.91378,"Shared room",20,1,9,"2018-05-21",0.53,1,0
+"628",26766865,"large  secured condominium studio",198257022,"Henry","Bronx","University Heights",40.8612,-73.91065,"Entire home/apt",150,1,6,"2018-11-10",0.53,1,191
+"420",20567374,"top floor apartment above the park",28190733,"Richard","Bronx","Kingsbridge",40.88883,-73.90046,"Entire home/apt",175,1,10,"2018-11-02",0.54,1,0
+"437",20817614,"room o4",74633496,"Justine","Bronx","University Heights",40.85751,-73.90805,"Private room",45,3,12,"2019-05-26",0.54,5,365
+"63",3655007,"great room for international students ! ",18492106,"Sharon","Bronx","Wakefield",40.88855,-73.85127,"Private room",50,7,12,"2018-09-15",0.55,1,0
+"102",5803068,"affordable cozy private room",16151285,"Carol","Bronx","Williamsbridge",40.8789,-73.84855,"Private room",45,14,27,"2018-01-01",0.55,4,325
+"328",17975664,"large  spacious  and comfortable house",123458466,"Shiva","Bronx","Edenwald",40.88534,-73.83434,"Private room",75,1,15,"2019-05-28",0.55,1,348
+"446",21006709,"nice cozy little studio in a quite neighborhood !  ! ",151249486,"Tiffany","Bronx","Parkchester",40.84038,-73.85662,"Entire home/apt",65,3,12,"2017-12-30",0.55,1,0
+"636",27016931,"bronx apartment-> brand new building-built in 2010",203266238,"Steve","Bronx","Morris Park",40.85322,-73.85144,"Private room",75,5,6,"2019-03-31",0.55,5,29
+"210",13294137,"quiet  secure  clean and very private apartment",75030399,"Hardy","Bronx","Williamsbridge",40.87938,-73.86349,"Entire home/apt",500,2,19,"2018-11-05",0.56,1,345
+"264",15713669,"cosy north bronx studio apartment with parking",101493347,"Beverly","Bronx","Wakefield",40.89121,-73.85131,"Entire home/apt",79,3,18,"2018-09-25",0.57,1,5
+"380",19588726,"habitaci�n ubicada c�ntricamente en la ciudad.",137690897,"Yaneli","Bronx","Fordham",40.86729,-73.89046,"Private room",75,2,13,"2019-05-19",0.57,1,364
+"727",29287113,"hunts point studio apt",73453515,"Kerlyne","Bronx","Hunts Point",40.81819,-73.88653,"Entire home/apt",150,2,5,"2018-11-12",0.57,1,0
+"758",30153367,"private room perfect for tourists",43981373,"Celeste","Bronx","Concourse",40.83488,-73.91988,"Private room",45,2,3,"2019-06-16",0.57,1,0
+"383",19659874,"big private studio one subway stop from manhattan",41578662,"Lucia","Bronx","Mott Haven",40.81133,-73.92356,"Entire home/apt",100,5,13,"2019-04-06",0.58,2,14
+"705",28911830,"charming redbrick bronx villa",191085997,"Christopher","Bronx","Pelham Bay",40.8546,-73.83026,"Entire home/apt",299,2,1,"2019-05-19",0.58,3,1
+"841",32422767,"big and beautiful room in big and beautiful ap.",133030103,"Amaury","Bronx","Wakefield",40.89308,-73.85076,"Private room",41,7,2,"2019-05-10",0.58,1,357
+"780",30965544,"spacious sun-filled bedroom near botanical garden",23828476,"Rosario","Bronx","Allerton",40.86437,-73.86047,"Private room",80,3,4,"2019-05-12",0.6,1,155
+"214",13335424,"i call it home  you'll call it home.",75506967,"Mimie","Bronx","Tremont",40.84559,-73.89815,"Private room",41,7,22,"2019-06-24",0.61,2,68
+"216",13359647,"budget room in large apartment (solo travelers+)",11070120,"Vernon","Bronx","Fordham",40.85927,-73.90142,"Private room",40,21,23,"2019-02-28",0.61,2,266
+"299",16777456,"large studio new york-bronx comfortable",24546033,"Pietro","Bronx","Morris Park",40.84906,-73.85418,"Private room",73,3,14,"2019-06-17",0.61,1,138
+"309",17095035,"large nyc flawless room  close to public transport",55948559,"Barry","Bronx","Pelham Gardens",40.86686,-73.84207,"Private room",35,1,16,"2019-01-21",0.61,4,3
+"409",20308615,"your oasis in the bronx ! ",67223829,"Richard & Xio","Bronx","Longwood",40.82406,-73.8934,"Entire home/apt",155,3,13,"2019-05-01",0.61,1,285
+"559",24313701,"fully renovated studio.beautiful  and comfortable.",16851857,"Paul","Bronx","Wakefield",40.89641,-73.85077,"Entire home/apt",88,5,8,"2019-04-24",0.61,4,322
+"720",29051948,"industrial loft living in nyc",63952962,"Drew","Bronx","Mott Haven",40.81102,-73.92778,"Entire home/apt",81,4,5,"2019-05-28",0.62,1,0
+"710",28959854,"1 br  stove  fridge   bath  living rm 20 mins nyc",16851857,"Paul","Bronx","Wakefield",40.89502,-73.85071,"Entire home/apt",75,7,3,"2019-05-03",0.63,4,242
+"782",31020399,"newly renovated stylish luxury 2 bedroom  first fl",231681941,"Roberto","Bronx","West Farms",40.83942,-73.87518,"Entire home/apt",165,2,4,"2019-03-17",0.63,1,310
+"186",11959854,"affordable private cozy room ! ",45990565,"Alba & Genesis","Bronx","Morris Heights",40.8522,-73.91014,"Private room",26,3,21,"2019-06-08",0.64,2,127
+"938",34334035,"south bronx gathering place",19903807,"Carol","Bronx","Mott Haven",40.81132,-73.91715,"Entire home/apt",145,3,1,"2019-05-23",0.64,3,48
+"327",17972013,"#1 private comfy room 20 minutes from  manhattan",42093468,"Tsotne (Tut)","Bronx","Mott Haven",40.81387,-73.91553,"Private room",42,5,17,"2018-01-18",0.65,4,23
+"508",22653378,"cozy  chic private room -- steps away from metro ! ",4792728,"Adrian","Bronx","Longwood",40.81943,-73.90224,"Private room",80,2,9,"2018-09-30",0.65,1,0
+"637",27086130,"heaven in new york  suite",185908506,"Cynthia","Bronx","Edenwald",40.8859,-73.83517,"Entire home/apt",95,3,5,"2019-05-31",0.66,3,311
+"23",791452,"jazzy condo in riverdale -fresh grown veggies",2556784,"Claudia","Bronx","Fieldston",40.88757,-73.90522,"Entire home/apt",60,1,25,"2019-07-05",0.67,1,311
+"55",3191678,"private room in riverdale ny",9122601,"Yan","Bronx","Fieldston",40.89603,-73.89958,"Private room",75,5,35,"2019-05-11",0.67,1,300
+"370",19119686,"deluxe room at yankee stadium- 20 mins to midtown ! ",133602911,"Sanyika","Bronx","Highbridge",40.82964,-73.92882,"Private room",60,3,17,"2019-05-20",0.67,2,66
+"379",19530518,"yankee stadium downtown bronx",16884548,"Taina","Bronx","Concourse Village",40.83083,-73.91928,"Private room",62,1,8,"2019-06-05",0.67,1,175
+"539",23670513,"nice place for ladies only",177161276,"Sissy","Bronx","Olinville",40.88455,-73.86587,"Shared room",26,1,10,"2019-03-07",0.67,1,312
+"831",32234982,"magical mott haven loft",241883660,"Sherril","Bronx","Port Morris",40.80707,-73.92974,"Entire home/apt",200,5,1,"2019-05-25",0.67,1,0
+"966",34717211,"mott haven dorm bb",30509656,"Orit","Bronx","Port Morris",40.80869,-73.9317,"Shared room",28,1,1,"2019-05-25",0.67,8,73
+"283",16366928,"bronx beauty: renovated historic rowhouse",97853468,"Steven","Bronx","Hunts Point",40.81841,-73.89067,"Private room",45,14,18,"2019-05-31",0.68,4,332
+"784",31053045,"sleeper shared rm on subway bronx zoo 30m2nyc",1532337,"Monica","Bronx","Van Nest",40.84087,-73.8699,"Shared room",20,10,3,"2019-07-01",0.68,4,25
+"873",32978570,"large bedroom with 200sf outdoor patio",97853468,"Steven","Bronx","Hunts Point",40.81724,-73.88878,"Private room",60,3,2,"2019-06-29",0.68,4,335
+"877",33112368,"ysa's room",249243301,"Ysa","Bronx","Mount Hope",40.8477,-73.90988,"Private room",24,2,2,"2019-05-01",0.68,1,0
+"980",34860549,"1 room for a cozy night or 2",209915988,"Ashley","Bronx","Unionport",40.82936,-73.84854,"Private room",75,1,1,"2019-05-26",0.68,1,365
+"105",5889379,"che' randall 
+sobro
+10 min from manhattan ! ",30585124,"Rawn","Bronx","Longwood",40.81935,-73.90772,"Private room",65,5,15,"2019-06-09",0.69,2,150
+"151",9367337,"huge sundrenching apartment waiting just for you ! ",48603884,"Katherine","Bronx","Parkchester",40.83735,-73.85997,"Entire home/apt",139,3,30,"2019-05-21",0.69,1,357
+"318",17730939,"large bright bedroom",369015,"Thai","Bronx","Pelham Gardens",40.86437,-73.83863,"Private room",43,20,6,"2019-06-23",0.69,2,104
+"640",27227103,"furnished and finished basement entire place safe",122044895,"Yerddy","Bronx","Wakefield",40.89382,-73.84844,"Entire home/apt",75,30,7,"2019-05-31",0.69,2,188
+"478",21789289,"room in house with wifi and netflix",119848398,"Devi","Bronx","Parkchester",40.83067,-73.88024,"Private room",35,1,14,"2019-07-02",0.7,2,1
+"598",25909160,"simple private rm  with  futon in the bronx  storage",144119993,"Charles","Bronx","Fordham",40.85801,-73.88247,"Private room",21,1,9,"2018-08-05",0.7,2,0
+"251",15085230,"bright 1 bedroom apt near attractions and transit",5437444,"Panthea","Bronx","Bronxdale",40.85401,-73.86594,"Entire home/apt",76,7,24,"2018-08-24",0.71,1,0
+"593",25618799,"shared space  with privacy near ny botanic garden",21850707,"Letitia","Bronx","Norwood",40.87077,-73.8817,"Shared room",33,2,8,"2019-05-19",0.71,1,6
+"610",26190785,"minimalistic private room w twin bed in the bronx",144119993,"Charles","Bronx","Belmont",40.85609,-73.88391,"Private room",30,1,9,"2018-08-02",0.71,2,0
+"722",29101938,"the bronx studio",219330285,"Janice","Bronx","Wakefield",40.89385,-73.8448,"Entire home/apt",80,3,6,"2018-12-31",0.71,1,0
+"731",29390506,"spacious furnished 2b1b apt with a big living room",62330502,"Rosa","Bronx","Woodlawn",40.89753,-73.87359,"Private room",50,1,6,"2019-01-21",0.71,1,0
+"48",2669366,"priv. room in a house 15min manhatt",13664245,"Denise","Bronx","Claremont Village",40.84192,-73.91108,"Private room",40,3,46,"2019-05-31",0.72,2,292
+"511",22771871,"my casa es su casa ! ",168211014,"Rosa","Bronx","Mott Haven",40.80906,-73.92031,"Entire home/apt",150,1,9,"2019-06-30",0.72,1,168
+"45",2545184,"great room !  good for med students ! ",4096786,"Nicolas","Bronx","Norwood",40.87605,-73.88047,"Private room",70,6,40,"2019-03-01",0.73,1,313
+"75",4082062,"unique room  with 2 twin beds..wifi*metro* quiet*safe",310670,"Vie","Bronx","Eastchester",40.8806,-73.83433,"Private room",75,2,37,"2019-06-16",0.73,13,364
+"246",14935151,"comfortable bedroom near train.",69711528,"Lucia","Bronx","Parkchester",40.83112,-73.87319,"Private room",49,3,25,"2018-06-15",0.73,2,0
+"76",4093399,"dominique's ny*chic*  quiet room*wifi*metro",310670,"Vie","Bronx","Eastchester",40.88009,-73.83442,"Private room",68,2,41,"2019-01-01",0.74,13,365
+"81",4407790,"retreat room",16286162,"Pat","Bronx","Allerton",40.86682,-73.85812,"Private room",49,2,42,"2019-06-21",0.74,4,227
+"444",20998265,"charming- cozy bedroom",90531953,"Carolina","Bronx","Concourse",40.82453,-73.92563,"Private room",60,1,16,"2018-01-01",0.74,1,0
+"363",18984088,"large clean safe private bedroom by lehman college",2511668,"David","Bronx","Kingsbridge",40.87271,-73.89972,"Private room",60,3,19,"2019-07-02",0.75,1,81
+"542",23761645,"2br wakefield bronx 20 min nyc 10 min  westchester",16851857,"Paul","Bronx","Wakefield",40.89691,-73.85121,"Entire home/apt",69,21,11,"2019-02-27",0.75,4,343
+"257",15336596,"private bedroom in artsy nyc apartment.",77010815,"Eean","Bronx","Norwood",40.8722,-73.87607,"Private room",50,3,22,"2019-06-02",0.76,1,342
+"489",22087093,"newly furnished & renovated rooms 5 min from nyc.",103345244,"Jeff","Bronx","Kingsbridge",40.88447,-73.90157,"Private room",55,1,14,"2019-05-26",0.76,2,127
+"586",25407116,"heavenly  place",191804394,"Pnb","Bronx","Longwood",40.8156,-73.90075,"Entire home/apt",60,1,9,"2019-06-09",0.76,2,257
+"507",22561496,"bright large 1 bdr flat  with parking ! ",16457426,"Brian","Bronx","Kingsbridge",40.88435,-73.90305,"Entire home/apt",145,2,14,"2019-06-20",0.77,1,332
+"644",27336179,"che’ randall deux
+sobro
+10 minutes to manhattan ! ",30585124,"Rawn","Bronx","Longwood",40.81822,-73.90812,"Private room",35,5,8,"2019-01-02",0.77,2,179
+"754",30089600,"spacious apt with charm & character",113569564,"Talia","Bronx","Riverdale",40.88511,-73.90831,"Entire home/apt",175,3,5,"2019-04-08",0.77,1,0
+"331",18048473,"#3 private  quadruple  room  20mnts from manhattan",42093468,"Tsotne (Tut)","Bronx","Mott Haven",40.81217,-73.91777,"Private room",41,5,21,"2019-06-20",0.78,4,334
+"399",19974905,"esteem's place",141615596,"Esteem","Bronx","Parkchester",40.83805,-73.85867,"Shared room",26,1,18,"2019-04-23",0.78,2,342
+"305",17044854,"beautiful private bedroom in bronx apartment",1568820,"Figgins","Bronx","Fordham",40.85615,-73.90077,"Private room",34,3,7,"2019-05-09",0.79,1,126
+"472",21609824,"room in house with wifi and netflix",119848398,"Devi","Bronx","Parkchester",40.83079,-73.8815,"Private room",50,2,10,"2019-01-15",0.79,2,283
+"211",13315967,"authentic industrial loft with 35ft ceilings.",75275467,"Yaron","Bronx","Port Morris",40.80884,-73.9302,"Entire home/apt",139,2,28,"2019-05-28",0.8,4,131
+"108",6244089,"modern 3br brownstone apartment",17264040,"Junior","Bronx","Mount Hope",40.84819,-73.90648,"Entire home/apt",125,2,41,"2019-05-19",0.81,2,342
+"191",12133746,"warm & cozy sunflower room:stg",13750728,"Gayle","Bronx","Longwood",40.81725,-73.90929,"Private room",55,2,31,"2019-03-18",0.81,4,280
+"896",33505762,"the white house bedroom 3",24660289,"Dennis/Norma","Bronx","Port Morris",40.80074,-73.91574,"Private room",50,3,2,"2019-05-04",0.81,1,350
+"32",1739847,"welcome to a beautiful quiet bronx.",8989844,"Ronald","Bronx","Soundview",40.82138,-73.87603,"Private room",45,3,53,"2018-08-18",0.82,1,249
+"115",6705604,"beautiful private bedroom in ny",35103293,"Maria","Bronx","Norwood",40.87225,-73.88748,"Private room",33,7,40,"2018-11-27",0.82,1,0
+"638",27135927,"1bedroom at yankee staduim",158972140,"Figo","Bronx","Concourse Village",40.82855,-73.91856,"Private room",47,1,9,"2019-03-03",0.82,2,332
+"906",33661568,"small studio",253698437,"H","Bronx","Williamsbridge",40.88171,-73.85384,"Entire home/apt",75,2,2,"2019-05-28",0.82,1,360
+"31",1693028,"private room with adjoining bathroom",8918030,"Theodore","Bronx","Williamsbridge",40.88296,-73.86264,"Private room",50,1,19,"2019-03-30",0.83,1,311
+"506",22545840,"habitaci�n comoda",165386495,"Maria","Bronx","Fordham",40.85419,-73.89827,"Private room",40,2,15,"2018-12-16",0.83,1,220
+"994",35069663,"apartamento compartido nyc.",264182618,"Jesus A","Bronx","Fordham",40.85743,-73.90233,"Shared room",22,1,1,"2019-06-03",0.83,1,11
+"96",5046189,"modern spacious 4br +tent perfect for large groups",23732730,"Buddy","Bronx","Allerton",40.87054,-73.84681,"Entire home/apt",450,2,45,"2019-07-02",0.84,4,342
+"159",9846114,"spacious  sunny beautiful apartment",20271650,"Bj","Bronx","Mott Haven",40.81192,-73.90949,"Private room",64,3,36,"2019-05-25",0.84,1,1
+"40",2082328,"comfy & spacious room next to the subway metro",9947836,"Jenny","Bronx","Longwood",40.82347,-73.89495,"Private room",65,4,26,"2019-05-28",0.85,2,7
+"197",12496118,"entire home in nyc- 1 bedroom  private entrance",11305944,"Yahaira","Bronx","Allerton",40.86947,-73.85993,"Entire home/apt",104,2,33,"2019-06-12",0.85,5,86
+"261",15510279,"studio in mott haven-1 subway stop from manhattan",99651727,"Lucia","Bronx","Mott Haven",40.81072,-73.92349,"Entire home/apt",120,2,26,"2019-06-19",0.85,1,260
+"325",17959888,"south bronx-piano district artist loft ",123271654,"Beatrice","Bronx","Port Morris",40.81034,-73.93166,"Shared room",165,2,20,"2018-10-14",0.85,1,15
+"607",26137778,"peaceful private clean rm near 2 5train metro n.",196462256,"Rees","Bronx","Wakefield",40.89374,-73.85579,"Private room",60,2,10,"2019-04-10",0.85,1,365
+"805",31514475,"new building rooms 5 from 1",203266238,"Steve","Bronx","Morris Park",40.85589,-73.85825,"Private room",85,5,5,"2019-06-29",0.85,5,343
+"27",1187643,"private room in nyc artist loft",6494389,"Daniel","Bronx","Port Morris",40.80904,-73.93037,"Private room",65,2,64,"2019-06-20",0.87,1,307
+"135",8294259,"room in private house(queen bed) by montefiore-nyc",11305944,"Yahaira","Bronx","Allerton",40.86789,-73.85999,"Private room",63,4,40,"2018-07-16",0.87,5,0
+"202",12847902,"beautiful modern home ! ",46938101,"Mario","Bronx","Concourse",40.83211,-73.92052,"Private room",49,1,33,"2019-06-21",0.87,1,348
+"656",27724217,"warm and friendly bronx home",209306758,"Harriet","Bronx","Baychester",40.87886,-73.84301,"Private room",69,3,9,"2019-06-11",0.87,2,311
+"674",28206135,"bronx room #2 nyc-best deal",203266238,"Steve","Bronx","Morris Park",40.85409,-73.85032,"Private room",50,5,8,"2019-06-22",0.87,5,22
+"590",25484515,"your home away from home",192335868,"Johnnet","Bronx","Edenwald",40.8901,-73.84031,"Private room",125,1,11,"2018-08-04",0.88,1,189
+"535",23612811,"large  sunny private bedroom in kingsbridge  bronx",19789539,"Isaac","Bronx","Fordham",40.86737,-73.89415,"Private room",47,3,14,"2019-05-31",0.89,1,197
+"25",958444,"great 1bd waterfront city island ny",5214644,"Noelva","Bronx","City Island",40.85235,-73.78873,"Entire home/apt",84,3,67,"2018-06-10",0.91,1,0
+"407",20232745,"sweetspot in pelham pkwy s.e. bronx ny 5 star stay",120231560,"Hiasselen","Bronx","Bronxdale",40.85634,-73.86633,"Private room",45,2,21,"2019-03-18",0.91,1,280
+"240",14340165,"luxury modern studio in the bronx",9605945,"Chondra","Bronx","Throgs Neck",40.81587,-73.81532,"Entire home/apt",175,2,28,"2019-05-28",0.92,1,36
+"755",30109916,"entire spacious apt. with comfy queen bed & wifi",22694324,"Greg","Bronx","Allerton",40.86975,-73.84669,"Entire home/apt",75,1,7,"2019-01-20",0.93,1,1
+"882",33214803,"spacious comfortable close to yankee stadium city",11379822,"Danny","Bronx","Mount Hope",40.84672,-73.90411,"Private room",63,1,3,"2019-05-07",0.94,1,167
+"898",33533803,"feel free and at home in  my cozy apartment.",167949895,"W. Jesse","Bronx","Kingsbridge",40.86313,-73.90183,"Shared room",35,1,3,"2019-04-06",0.94,1,0
+"924",33995462,"bronx  little italy  arthur ave  fordham  yanks.",256683560,"Jorge","Bronx","Belmont",40.85398,-73.88737,"Shared room",49,1,2,"2019-06-03",0.94,2,358
+"15",449680,"artfully decorated 2 bedroom apt",1812871,"Karen","Bronx","Longwood",40.81611,-73.89909,"Entire home/apt",100,5,82,"2018-12-15",0.96,1,63
+"54",3185829,"2br private apt guest homestay",16151285,"Carol","Bronx","Williamsbridge",40.88075,-73.84845,"Entire home/apt",95,3,58,"2019-06-10",0.96,4,358
+"160",10014783,"super cozy room",51430742,"Jan","Bronx","Morris Heights",40.85292,-73.91683,"Private room",51,2,36,"2019-05-08",0.96,1,364
+"397",19886609,"the magnificent",137411167,"Becky","Bronx","Parkchester",40.84024,-73.85836,"Private room",45,1,23,"2019-06-01",0.96,1,54
+"404",20149318,"wonderful room for rent in the bronx",19297877,"Albena","Bronx","Bronxdale",40.85527,-73.86719,"Private room",35,1,21,"2018-12-11",0.96,1,284
+"806",31543432,"private bright room with private detached bathroom",26295375,"Alex","Bronx","Port Morris",40.80797,-73.92865,"Private room",95,3,5,"2019-07-02",0.96,1,49
+"470",21541783,"bright and cozy studio apartment",156600754,"Mike","Bronx","Longwood",40.82245,-73.90875,"Entire home/apt",110,2,19,"2018-12-16",0.97,1,0
+"860",32808836,"slice of new york. enjoy ethnicity and culture !  ! ",246806787,"Xian","Bronx","Williamsbridge",40.88542,-73.86169,"Private room",140,2,3,"2019-05-05",0.97,1,365
+"109",6248335,"neat home 20 min to lga airport",32445083,"Sandra","Bronx","Longwood",40.82883,-73.88854,"Entire home/apt",119,4,48,"2019-07-05",0.98,1,223
+"271",16148036,"cozy bed in private living room",94536810,"Belkis","Bronx","Bronxdale",40.85711,-73.86474,"Private room",45,5,30,"2019-05-23",0.98,2,318
+"527",23254023,"grand concourse gem",170942459,"Edwin","Bronx","Concourse",40.8315,-73.92047,"Private room",54,1,16,"2018-10-08",0.99,1,69
+"706",28911848,"nyc hideaway spacious garden apartment",191085997,"Christopher","Bronx","Pelham Bay",40.85413,-73.83065,"Entire home/apt",125,2,7,"2019-06-30",0.99,3,301
+"64",3769052,"great sunny spacious room",3086826,"Melody","Bronx","Mount Hope",40.84611,-73.91036,"Private room",40,3,59,"2019-04-05",1,1,343
+"810",31596199,"entire contemporary bronx home",236852677,"Emily","Bronx","Fordham",40.86906,-73.88753,"Entire home/apt",200,2,1,"2019-06-16",1,1,32
+"838",32403617,"new !  modern 1br apartment in heart of nyc ! ",79729447,"Joe","Bronx","Throgs Neck",40.8149,-73.81545,"Entire home/apt",125,3,1,"2019-06-09",1,1,365
+"915",33853642,"comfy basement suite",78185278,"Quisquella","Bronx","Woodlawn",40.90406,-73.86286,"Entire home/apt",65,1,1,"2019-07-04",1,1,29
+"916",33854406,"beautiful condo in quiet parkchester  close to nyc",16851857,"Paul","Bronx","Parkchester",40.83516,-73.86024,"Entire home/apt",85,2,1,"2019-06-24",1,4,349
+"937",34313928,"south bronx suite two",19903807,"Carol","Bronx","Mott Haven",40.81245,-73.91648,"Entire home/apt",120,3,1,"2019-06-15",1,3,45
+"969",34721719,"chez vous en famille",261891944,"Rosine","Bronx","Fordham",40.85368,-73.90172,"Private room",75,1,1,"2019-06-17",1,1,363
+"977",34822061,"nyc ocean front suburb",262528929,"Alfonso","Bronx","Throgs Neck",40.828,-73.81275,"Entire home/apt",100,3,1,"2019-06-22",1,1,336
+"986",34941499,"private room 1",263266237,"Amoyiem","Bronx","Allerton",40.86958,-73.84872,"Private room",38,2,1,"2019-06-23",1,4,90
+"996",35131221,"apartment in riverdale ny",264618293,"Zlatan","Bronx","Fieldston",40.89701,-73.89778,"Entire home/apt",109,2,1,"2019-07-01",1,1,192
+"997",35165581,"home of the yankees",264840662,"Arian","Bronx","Morrisania",40.82888,-73.9045,"Private room",70,2,1,"2019-06-30",1,1,90
+"1020",35464959,"1 bedroom  shared apartment living.",266823933,"Natalie","Bronx","Van Nest",40.8455,-73.86217,"Private room",35,3,1,"2019-06-17",1,1,342
+"1023",35487203,"sweet-room",266983536,"Nawa","Bronx","Longwood",40.82794,-73.90412,"Private room",45,2,1,"2019-06-24",1,1,364
+"1028",35566162,"cozy one bedroom apartment in the bronx",185355022,"Vivi","Bronx","Concourse",40.8315,-73.92277,"Entire home/apt",60,3,1,"2019-06-22",1,1,20
+"1034",35614155,"""the quick get away #2""",241454071,"Leyland","Bronx","Hunts Point",40.81879,-73.88646,"Private room",35,2,1,"2019-06-26",1,2,59
+"1036",35648435,"suzy ville",244116720,"Carsandra","Bronx","Throgs Neck",40.82754,-73.82124,"Private room",65,1,1,"2019-06-18",1,1,365
+"1040",35717460,"comfortable stay near yankee stadium",264676469,"Diane","Bronx","Highbridge",40.83163,-73.93077,"Private room",80,1,1,"2019-06-21",1,1,2
+"1047",35877559,"cozy private room near fordham university bronx #5",35783912,"Pi & Leo","Bronx","Fordham",40.86249,-73.89234,"Private room",39,3,1,"2019-07-07",1,8,180
+"1048",35877681,"get away private bedroom in new york city #6",35783912,"Pi & Leo","Bronx","Fordham",40.86427,-73.89215,"Private room",39,2,1,"2019-07-01",1,8,175
+"1053",35916310,"nice house private room",230720704,"Pp","Bronx","North Riverdale",40.91234,-73.89417,"Private room",40,1,1,"2019-06-30",1,3,179
+"1056",35996222,"stylish 2 beds apartment with private parking",270796745,"Sonia","Bronx","Allerton",40.86886,-73.84915,"Entire home/apt",140,2,1,"2019-06-30",1,1,175
+"1059",36040561,"nice room to rent 1",230720704,"Pp","Bronx","North Riverdale",40.91306,-73.89389,"Private room",40,1,1,"2019-07-06",1,3,175
+"1060",36041232,"nice house room 2 near van cortlandt park",230720704,"Pp","Bronx","North Riverdale",40.91167,-73.89566,"Private room",40,1,1,"2019-07-06",1,3,174
+"1062",36071960,"great apartment only $79 per night 
+great area",267710728,"James","Bronx","Pelham Gardens",40.86143,-73.84573,"Entire home/apt",79,2,1,"2019-06-26",1,2,354
+"1065",36108811,"bright and sunny home away from home.",271616449,"Raiysa","Bronx","Parkchester",40.8349,-73.85259,"Private room",40,3,1,"2019-06-28",1,1,68
+"1072",36206788,"best 1 bedroom apartment in nyc",272308792,"Takeshia","Bronx","Longwood",40.81629,-73.90945,"Entire home/apt",85,1,1,"2019-07-06",1,1,14
+"419",20541715,"comfort zone spacious condo 3 minutes from subway",146675319,"Will","Bronx","Mount Hope",40.85031,-73.90102,"Entire home/apt",105,1,23,"2019-07-05",1.02,3,6
+"365",18992796,"room 10",74633496,"Justine","Bronx","University Heights",40.85624,-73.90946,"Private room",40,3,26,"2019-06-16",1.03,5,365
+"421",20581430,"large condo by fordham university",146675319,"Will","Bronx","Fordham",40.85217,-73.90239,"Entire home/apt",100,2,2,"2019-07-01",1.05,3,26
+"600",25996748,"full apartment  1 bedroom",18197276,"Miguel","Bronx","Kingsbridge",40.88058,-73.90552,"Entire home/apt",85,2,13,"2019-01-01",1.05,1,0
+"750",29966192,"the cozy place",221442773,"Carlos & Vielca","Bronx","Pelham Bay",40.84391,-73.83171,"Entire home/apt",99,2,8,"2019-01-01",1.05,1,360
+"791",31201815,"cozy loft bedroom with lil couch underneath. =]",217950098,"Soft","Bronx","Melrose",40.81712,-73.9209,"Private room",100,1,3,"2019-06-03",1.05,1,150
+"94",4963511,"dominiq's ny cosy 3bedrm crashpad*metro*wifi*$$ale",310670,"Vie","Bronx","Eastchester",40.88017,-73.83484,"Entire home/apt",250,1,15,"2019-06-02",1.08,13,357
+"715",29028761,"#5 quadruple private bedroom for 1-4 people",42093468,"Tsotne (Tut)","Bronx","Mott Haven",40.81322,-73.91696,"Private room",42,5,7,"2019-07-01",1.08,4,321
+"89",4671824,"master bedroom by yankee stadium",190409,"Waundell","Bronx","Highbridge",40.83212,-73.93054,"Private room",60,1,56,"2019-06-23",1.09,3,355
+"625",26640231,"magic at the castle: private bedroom and bathroom",27964506,"Ally","Bronx","Throgs Neck",40.81639,-73.81954,"Private room",60,1,13,"2019-06-30",1.09,1,35
+"145",8903147,"yankees room in the bronx",3684360,"Enrique","Bronx","Norwood",40.87709,-73.88228,"Private room",38,1,50,"2018-06-27",1.1,4,267
+"138",8386220,"yankee stadium lavished bedroom",2422554,"Brais","Bronx","Highbridge",40.83746,-73.92268,"Private room",59,4,51,"2017-02-24",1.11,2,0
+"561",24512493,"private room at roselle  in the bronx",175152359,"Massiel","Bronx","Westchester Square",40.84367,-73.84911,"Private room",65,2,11,"2019-06-15",1.11,2,158
+"744",29876453,"in riverdale  a most unusual apartment to enjoy.",124867390,"Karel","Bronx","Spuyten Duyvil",40.88071,-73.92074,"Private room",60,3,8,"2019-06-16",1.11,1,326
+"759",30153699,"luxury apartment (1 bedroom  with  twin beds)",163152195,"Zakiyyah","Bronx","Port Morris",40.80747,-73.92766,"Private room",145,1,7,"2019-06-23",1.12,1,360
+"22",781486,"spacious room in historic house",2723812,"Libertad","Bronx","Port Morris",40.80461,-73.92276,"Private room",60,3,86,"2017-12-12",1.13,2,1
+"887",33337280,"private room in gated community: walk to ferry ! ",97328229,"Jaime","Bronx","Clason Point",40.80771,-73.85204,"Private room",46,2,3,"2019-06-30",1.13,1,179
+"80",4296710,"nice space in nyc",1260921,"Victor","Bronx","Kingsbridge",40.86809,-73.90201,"Private room",37,2,63,"2019-06-24",1.15,2,305
+"238",14255485,"entire one bedroom apartment in historic district",5682956,"Maria","Bronx","Highbridge",40.84277,-73.92588,"Entire home/apt",76,7,40,"2019-05-27",1.15,1,34
+"967",34718463,"mott haven dorm dd",30509656,"Orit","Bronx","Port Morris",40.80996,-73.93172,"Shared room",28,1,2,"2019-05-21",1.15,8,365
+"475",21739805,"*boogie down private and comfortable stay*",158344372,"Rashida","Bronx","Wakefield",40.88688,-73.84789,"Private room",70,2,5,"2019-05-19",1.16,1,365
+"533",23545346,"cuarto para 3",168429942,"Jennifer","Bronx","Norwood",40.87993,-73.87195,"Private room",50,3,18,"2019-07-02",1.16,2,326
+"117",6939597,"full garden apartment in brownstone",2723812,"Libertad","Bronx","Mott Haven",40.80993,-73.92613,"Entire home/apt",100,2,57,"2019-06-23",1.17,2,284
+"342",18508209,"charming bedroom",1635983,"Sheila","Bronx","Schuylerville",40.83018,-73.83413,"Private room",42,4,22,"2019-06-25",1.18,3,147
+"369",19111261,"home oasis home",133534397,"David","Bronx","Longwood",40.8229,-73.90295,"Entire home/apt",100,3,30,"2018-02-26",1.18,1,0
+"522",23120142,"deluxe bedroom - 30 minutes from midtown ! ",133602911,"Sanyika","Bronx","Mount Hope",40.84882,-73.90263,"Private room",80,3,20,"2019-06-14",1.18,2,36
+"817",31881336,"new large beautiful room with private bathroom",5704932,"Victor","Bronx","Fordham",40.86566,-73.88748,"Private room",65,2,6,"2019-06-25",1.18,3,77
+"226",13669391,"spacious 1 bedroom in woodlawn nyc",79340220,"Kathryn","Bronx","Woodlawn",40.89984,-73.86902,"Entire home/apt",85,2,43,"2019-07-06",1.19,1,299
+"752",29991534,"lovely room",179416315,"Elizabeth","Bronx","Norwood",40.87064,-73.8797,"Private room",60,1,9,"2019-01-15",1.19,2,310
+"657",27756639,"comfortable place with dimple",209306758,"Harriet","Bronx","Baychester",40.8773,-73.84329,"Private room",53,3,12,"2019-06-14",1.2,2,356
+"889",33366167,"room in wonderful and secure private house",43330303,"Cristian","Bronx","Fordham",40.85394,-73.89641,"Private room",35,5,3,"2019-07-02",1.2,2,62
+"7",169306,"affordable & cozy",806214,"Vanessa","Bronx","University Heights",40.85811,-73.90675,"Private room",37,4,117,"2019-05-21",1.21,1,232
+"13",385824,"new york city- riverdale modern two bedrooms unit",1931205,"Orit","Bronx","Spuyten Duyvil",40.87991,-73.91673,"Entire home/apt",120,2,47,"2019-07-03",1.22,1,318
+"190",12132772,"iris: stg goyankees ! ",13750728,"Gayle","Bronx","Longwood",40.81928,-73.90933,"Private room",60,2,47,"2019-05-10",1.22,4,249
+"481",21897845,"one room.",159769278,"Musieka","Bronx","Pelham Gardens",40.86706,-73.84674,"Private room",40,2,17,"2019-06-04",1.23,1,17
+"624",26639925,"esteem's place deux",141615596,"Esteem","Bronx","Parkchester",40.83791,-73.85845,"Private room",26,1,14,"2019-06-13",1.24,2,311
+"560",24421357,"private clean room near yankee stadium.",10534760,"Lois","Bronx","Morrisania",40.83139,-73.90166,"Private room",23,2,18,"2019-07-02",1.25,1,36
+"36",1936633,"great 1bd waterfront city island ny",10018391,"Alex","Bronx","City Island",40.85258,-73.78762,"Entire home/apt",120,3,84,"2018-12-01",1.26,1,16
+"140",8518051,"cozy living environment",44850669,"Taft","Bronx","Clason Point",40.81773,-73.86164,"Entire home/apt",100,2,58,"2019-07-03",1.26,1,324
+"300",16781601,"room 14",74633496,"Justine","Bronx","University Heights",40.8562,-73.90899,"Private room",43,3,36,"2019-06-10",1.26,5,365
+"373",19295941,"room 12",74633496,"Justine","Bronx","University Heights",40.85771,-73.90899,"Private room",40,3,31,"2019-06-28",1.26,5,362
+"646",27366041,"sham’s home",80543188,"Shamira","Bronx","Fordham",40.86299,-73.89088,"Private room",75,2,14,"2019-05-01",1.26,1,210
+"653",27677869,"stay comfortably with us. you'll be back again....",208906697,"Maxime","Bronx","Longwood",40.82248,-73.89915,"Private room",50,1,13,"2019-05-29",1.26,1,280
+"756",30120067,"home sweet riverdale",163737392,"K","Bronx","Fieldston",40.89466,-73.89735,"Shared room",50,1,8,"2019-07-06",1.26,2,241
+"58",3429765,"sunny private room",16286162,"Pat","Bronx","Allerton",40.86689,-73.85776,"Private room",47,2,75,"2018-07-05",1.27,4,172
+"336",18375815,"spacious private room close st. barnabas hospital",127249880,"Emma","Bronx","Tremont",40.84647,-73.89299,"Private room",38,2,33,"2019-05-28",1.27,2,327
+"816",31859909,"beautiful room with view in newly-renovated house",5704932,"Victor","Bronx","Fordham",40.86643,-73.88895,"Private room",65,2,7,"2019-04-01",1.28,3,110
+"717",29037141,"private singles clean bedroom ny 6 train no curfew",44260966,"Alicia","Bronx","Soundview",40.83144,-73.86639,"Private room",38,2,11,"2019-04-21",1.29,3,188
+"174",11272222,"la maison joyeuse - 12 min walk to yankee stadium",58857198,"Melanie","Bronx","Concourse Village",40.82731,-73.91632,"Private room",100,2,54,"2017-01-02",1.32,1,0
+"453",21122874,"private room  with  queen bed & twin bed",152353924,"Dominique","Bronx","Parkchester",40.83408,-73.87419,"Private room",28,3,27,"2019-07-01",1.32,2,214
+"462",21369232,"awesome private room in vibrant bronx",12446529,"Migdalia","Bronx","Soundview",40.82407,-73.8614,"Private room",49,2,25,"2019-05-07",1.32,2,184
+"395",19867930,"peaceful private attic bedroom  living room & bath",20433973,"Julia","Bronx","City Island",40.83914,-73.78158,"Private room",80,1,6,"2019-06-30",1.33,2,358
+"498",22336423,"the double u",40371157,"Jimmy","Bronx","Longwood",40.82441,-73.90361,"Private room",125,1,25,"2018-12-09",1.34,2,0
+"11",245544,"ny  big room for 2 near manhattan",1260921,"Victor","Bronx","Kingsbridge",40.8679,-73.90023,"Private room",42,2,108,"2019-06-19",1.36,2,302
+"345",18546787,"charming safe beautifully furnished",127501584,"Aminata Mody","Bronx","Hunts Point",40.81406,-73.88997,"Private room",65,4,36,"2019-06-07",1.36,1,365
+"349",18615054,"cozy room in charming home",1635983,"Sheila","Bronx","Schuylerville",40.83159,-73.83375,"Private room",40,4,35,"2019-06-08",1.36,3,171
+"569",24793502,"conveniently located to  manhattan",132669029,"Edwin","Bronx","Throgs Neck",40.82601,-73.81907,"Private room",50,3,19,"2019-06-12",1.36,4,8
+"950",34498925,"quaint private room in vibrant bronx neighborhood",7087084,"Laura","Bronx","Fordham",40.86003,-73.89314,"Private room",47,1,2,"2019-05-27",1.36,1,236
+"438",20830442,"cozy room in lovely apartment close to subway",1939209,"Farrel","Bronx","Claremont Village",40.835,-73.91114,"Private room",60,4,30,"2019-07-07",1.38,2,179
+"875",32989829,"entire large one bedroom close to all areas of nyc",248286585,"Maria","Bronx","Kingsbridge",40.88298,-73.8987,"Entire home/apt",90,3,5,"2019-06-30",1.38,1,321
